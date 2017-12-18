@@ -1,4 +1,4 @@
 # ProjectEuler
-Solutions to Project Euler problems
+My solutions to Project Euler problems
 
-Number of problems solved so far: 5
+Number of problems solved so far: 6
